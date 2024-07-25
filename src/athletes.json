@@ -1,0 +1,1177 @@
+[
+  {
+    "id": 1,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Wascar-Carpio.png?v=1719892138&width=650",
+    "firstName": "Wascar",
+    "lastName": "Carpio",
+    "birthday": "June 17, 1997",
+    "currentAge": 26,
+    "nationality": "U.S America",
+    "weightClass": 59,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 59,
+        "squat": 222.5,
+        "bench": 147.5,
+        "deadlift": 267.5,
+        "total": 637.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 59,
+        "squat": 222.5,
+        "bench": 142.5,
+        "deadlift": 260,
+        "total": 625,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Kasemsand-Senumong.png?v=1719892138&width=650",
+    "firstName": "Kasemand",
+    "lastName": "Senumong",
+    "birthday": "February 20, 1995",
+    "currentAge": 29,
+    "nationality": "Thailand",
+    "weightClass": 66,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 65.3,
+        "squat": 255,
+        "bench": 155,
+        "deadlift": 297.5,
+        "total": 707.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 64.8,
+        "squat": 235,
+        "bench": 142.5,
+        "deadlift": 280,
+        "total": 657.5,
+        "rank": "5th"
+      },
+      {
+        "year": 2022,
+        "competition": "2022 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 65.5,
+        "squat": 235,
+        "bench": 145,
+        "deadlift": 270,
+        "total": 650,
+        "rank": "7th"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Austin-Perkins.png?v=1719892138&width=650",
+    "firstName": "Austin",
+    "lastName": "Perkins",
+    "birthday": "April 25, 1999",
+    "currentAge": 25,
+    "nationality": "U.S America",
+    "weightClass": 74,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 72.7,
+        "squat": 311,
+        "bench": 200,
+        "deadlift": 325,
+        "total": 836,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships; Bench Press Only",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 73.3,
+        "squat": null,
+        "bench": 190,
+        "deadlift": null,
+        "total": null,
+        "rank": "5th"
+      },
+
+      {
+        "year": 2019,
+        "competition": "2019 World University Powelrifting Cup",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 72.6,
+        "squat": 275,
+        "bench": 155,
+        "deadlift": 307.5,
+        "total": 737.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Timothy-Monigatti.png?v=1719892138&width=650",
+    "firstName": "Timothy",
+    "lastName": "Monigatti",
+    "birthday": "December 6, 1996",
+    "currentAge": 27,
+    "nationality": "New Zealand",
+    "weightClass": 74,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 73.7,
+        "squat": 288.5,
+        "bench": 170,
+        "deadlift": 331,
+        "total": 789.5,
+        "rank": "6th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 73.8,
+        "squat": 287.5,
+        "bench": 172.5,
+        "deadlift": 330,
+        "total": 790,
+        "rank": "3rd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World University Powelrifting Cup",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 73.9,
+        "squat": 283.5,
+        "bench": 170,
+        "deadlift": 324.5,
+        "total": 778,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Russel-Orhii.png?v=1719892138&width=650",
+    "firstName": "Russel",
+    "lastName": "Orhii",
+    "birthday": "Decemeber 8, 1994",
+    "currentAge": 29,
+    "nationality": "U.S America",
+    "weightClass": 83,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82.7,
+        "squat": 321,
+        "bench": 185,
+        "deadlift": 350,
+        "total": 843.5,
+        "rank": "2nd"
+      },
+      {
+        "year": 2021,
+        "competition": "2021 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82.6,
+        "squat": 320.5,
+        "bench": 187.5,
+        "deadlift": 333,
+        "total": 841,
+        "rank": "1st"
+      },
+      {
+        "year": 2019,
+        "competition": "2019 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82.3,
+        "squat": 313,
+        "bench": 195,
+        "deadlift": 325,
+        "total": 833,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Jurins-Kengamu.png?v=1719892138&width=650",
+    "firstName": "Jurins",
+    "lastName": "Kengamu",
+    "birthday": "November 30, 1988",
+    "currentAge": 35,
+    "nationality": "Great Britain",
+    "weightClass": 83,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82.7,
+        "squat": 310,
+        "bench": 185,
+        "deadlift": 350,
+        "total": 845,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82.6,
+        "squat": 290,
+        "bench": 175,
+        "deadlift": 325,
+        "total": 790,
+        "rank": "6th"
+      },
+      {
+        "year": 2022,
+        "competition": "2022 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 82,
+        "squat": 295,
+        "bench": 172.5,
+        "deadlift": 320,
+        "total": 787.5,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Gustav-Hedlund.png?v=1719892138&width=650",
+    "firstName": "Gustav",
+    "lastName": "Hendlund",
+    "birthday": "July 16, 1995",
+    "currentAge": 28,
+    "nationality": "Sweden",
+    "weightClass": 93,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.7,
+        "squat": 325,
+        "bench": 215,
+        "deadlift": 355,
+        "total": 895,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.5,
+        "squat": 327.5,
+        "bench": 212.5,
+        "deadlift": 355,
+        "total": 895,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.7,
+        "squat": 320,
+        "bench": 210,
+        "deadlift": 345,
+        "total": 875,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Ashton-Rouska.png?v=1719892138&width=650",
+    "firstName": "Ashton",
+    "lastName": "Rouska",
+    "birthday": "February 12, 1997",
+    "currentAge": 27,
+    "nationality": "U.S America",
+    "weightClass": 105,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 102.9,
+        "squat": 365.5,
+        "bench": 210,
+        "deadlift": 365,
+        "total": 940,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 AMP Classic Raw Open Nationals",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 102.6,
+        "squat": 363,
+        "bench": 210,
+        "deadlift": 368,
+        "total": 941,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 Texas Fall Championship",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 103.2,
+        "squat": 345,
+        "bench": 200,
+        "deadlift": 362.5,
+        "total": 907.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Bobb-Matthews.png?v=1719892138&width=650",
+    "firstName": "Bobb",
+    "lastName": "Matthews",
+    "birthday": "July 6, 1997",
+    "currentAge": 26,
+    "nationality": "U.S America",
+    "weightClass": 120,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 105.9,
+        "squat": 352.5,
+        "bench": 237.5,
+        "deadlift": 380,
+        "total": 970,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 AMP Classic Raw Open Nationals",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 106.2,
+        "squat": 360,
+        "bench": 240,
+        "deadlift": 378.5,
+        "total": 978.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 Texas Fall Championship",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 107.2,
+        "squat": 340,
+        "bench": 227.5,
+        "deadlift": 385,
+        "total": 952.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Male",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Jesus-Olivares.png?v=1719892138&width=650",
+    "firstName": "Jesus",
+    "lastName": "Olivares",
+    "birthday": "June 5, 1998",
+    "currentAge": 26,
+    "nationality": "U.S America",
+    "weightClass": "120+",
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 179.9,
+        "squat": 455,
+        "bench": 262.5,
+        "deadlift": 395,
+        "total": 1112.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 186.2,
+        "squat": 478,
+        "bench": 255,
+        "deadlift": 380,
+        "total": 1113,
+        "rank": "11th"
+      },
+      {
+        "year": 2024,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 178.2,
+        "squat": 470,
+        "bench": 272.5,
+        "deadlift": 410,
+        "total": 1152.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Male",
+    "profileImage": "https://max-powerlifting.fr/wp-content/uploads/2022/12/panagotis_taridinis.jpg",
+    "firstName": "Panagiotis",
+    "lastName": "Tarinidis",
+    "birthday": "October 15, 1994",
+    "currentAge": 29,
+    "nationality": "France",
+    "weightClass": 66,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 65.7,
+        "squat": 247.5,
+        "bench": 175,
+        "deadlift": 285,
+        "total": 707.5,
+        "rank": "3rd"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 65.8,
+        "squat": 240,
+        "bench": 172.5,
+        "deadlift": 290,
+        "total": 702.5,
+        "rank": "5th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 65.9,
+        "squat": 247.5,
+        "bench": 172.5,
+        "deadlift": 285,
+        "total": 705,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Male",
+    "profileImage": "https://m.media-amazon.com/images/M/MV5BYzY4ZmY2NjUtNmNjZC00OWE0LTgzYTctMjc0M2NkYmU3NTA0XkEyXkFqcGdeQXVyMTU3NDMzOTE2._V1_.jpg",
+    "firstName": "Gavin",
+    "lastName": "Adin",
+    "birthday": "March 19, 1998",
+    "currentAge": 25,
+    "nationality": "U.S America",
+    "weightClass": 93,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.9,
+        "squat": 337,
+        "bench": 205,
+        "deadlift": 334.5,
+        "total": 887,
+        "rank": "4th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.9,
+        "squat": 325,
+        "bench": 215,
+        "deadlift": 340,
+        "total": 880,
+        "rank": "3rd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.5,
+        "squat": 310,
+        "bench": 220,
+        "deadlift": 330,
+        "total": 860,
+        "rank": "5th"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Male",
+    "profileImage": "https://www.powerlifting.sport/fileadmin/_processed_/d/8/csm_934_126220ea22.jpg",
+    "firstName": "Jonathan",
+    "lastName": "Cayco",
+    "birthday": "July 5, 1992",
+    "currentAge": 31,
+    "nationality": "U.S America",
+    "weightClass": 93,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.7,
+        "squat": 300,
+        "bench": 245.5,
+        "deadlift": 347.5,
+        "total": 890.5,
+        "rank": "2nd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.5,
+        "squat": 300,
+        "bench": 241.5,
+        "deadlift": 342.5,
+        "total": 884,
+        "rank": "2nd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 92.9,
+        "squat": 300,
+        "bench": 243,
+        "deadlift": 345,
+        "total": 888,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Tiffany-Chapon_3e9e0072-760a-446d-bb56-25880baf0987.png?v=1719892138&width=650",
+    "firstName": "Tiffany",
+    "lastName": "Chapon",
+    "birthday": "April 29, 2001",
+    "currentAge": 23,
+    "nationality": "France",
+    "weightClass": 47,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 46.8,
+        "squat": 161.5,
+        "bench": 100,
+        "deadlift": 170,
+        "total": 431.5,
+        "rank": "10th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 46.7,
+        "squat": 161,
+        "bench": 95,
+        "deadlift": 172.5,
+        "total": 428.5,
+        "rank": "7th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 46.8,
+        "squat": 165.5,
+        "bench": 97.5,
+        "deadlift": 170,
+        "total": 433,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Evie-Corrigan.png?v=1719892138&width=650",
+    "firstName": "Evie",
+    "lastName": "Corrigan",
+    "birthday": "April 9, 1996",
+    "currentAge": 28,
+    "nationality": "New Zealand",
+    "weightClass": 52,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.9,
+        "squat": 170,
+        "bench": 107.5,
+        "deadlift": 200,
+        "total": 477.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.8,
+        "squat": 160,
+        "bench": 97.5,
+        "deadlift": 202.5,
+        "total": 460,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.9,
+        "squat": 170,
+        "bench": 107.5,
+        "deadlift": 200,
+        "total": 477.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Jade-Jacob.png?v=1719892138&width=650",
+    "firstName": "Jade",
+    "lastName": "Jacob",
+    "birthday": "April 13, 2001",
+    "currentAge": 23,
+    "nationality": "France",
+    "weightClass": 57,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 56.6,
+        "squat": 188,
+        "bench": 100,
+        "deadlift": 231.5,
+        "total": 519.5,
+        "rank": "8th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 56.5,
+        "squat": 180,
+        "bench": 92.5,
+        "deadlift": 231,
+        "total": 503.5,
+        "rank": "3rd"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 56.8,
+        "squat": 185,
+        "bench": 100,
+        "deadlift": 230,
+        "total": 515,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Meghan-Scanlon.png?v=1719892138&width=650",
+    "firstName": "Meghan",
+    "lastName": "Scanion",
+    "birthday": "1988",
+    "currentAge": 36,
+    "nationality": "U.S America",
+    "weightClass": 63,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 62.6,
+        "squat": 202.5,
+        "bench": 140,
+        "deadlift": 210,
+        "total": 552.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 62.8,
+        "squat": 195,
+        "bench": 127.5,
+        "deadlift": 210,
+        "total": 532.5,
+        "rank": "2nd"
+      },
+      {
+        "year": 2022,
+        "competition": "2022 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 61.5,
+        "squat": 180,
+        "bench": 125,
+        "deadlift": 200,
+        "total": 505.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Carola-Garra_07e32a9b-9ae8-4601-9cf7-2f4c87f09ba8.png?v=1719892138&width=650",
+    "firstName": "Carola",
+    "lastName": "Garra",
+    "birthday": "June 2, 1994",
+    "currentAge": 30,
+    "nationality": "Italy",
+    "weightClass": 63,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 67.2,
+        "squat": 220,
+        "bench": 150,
+        "deadlift": 212.5,
+        "total": 582.5,
+        "rank": "3rd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 62.9,
+        "squat": 207.5,
+        "bench": 142.5,
+        "deadlift": 207.5,
+        "total": 557.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 67.6,
+        "squat": 222.5,
+        "bench": 140,
+        "deadlift": 215,
+        "total": 577.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Agata-Sitko.png?v=1719892138&width=650",
+    "firstName": "Agata",
+    "lastName": "Sitko",
+    "birthday": "November 19, 2002",
+    "currentAge": 21,
+    "nationality": "Poland",
+    "weightClass": 76,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 68.9,
+        "squat": 197.5,
+        "bench": 154,
+        "deadlift": 248.5,
+        "total": 600,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 76,
+        "squat": 197.5,
+        "bench": 146,
+        "deadlift": 215,
+        "total": 556,
+        "rank": "11th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 75.3,
+        "squat": 207.5,
+        "bench": 155.5,
+        "deadlift": 250,
+        "total": 613,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Amanda-Lawrence_a575b901-3073-4d0f-8233-16714c70b915.png?v=1719892138&width=650",
+    "firstName": "Amanda",
+    "lastName": "Lawrence",
+    "birthday": "May 6, 1997",
+    "currentAge": 27,
+    "nationality": "U.S America",
+    "weightClass": 84,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 83.5,
+        "squat": 249.5,
+        "bench": 135,
+        "deadlift": 262.5,
+        "total": 647,
+        "rank": "11th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 83.4,
+        "squat": 246.5,
+        "bench": 130,
+        "deadlift": 268.5,
+        "total": 645,
+        "rank": "4th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 83.1,
+        "squat": 247.5,
+        "bench": 135,
+        "deadlift": 260,
+        "total": 642.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Sonita-Kyen-Muluh.png?v=1719892138&width=650",
+    "firstName": "Sonita",
+    "lastName": "Kyen Muluh",
+    "birthday": "November 25,1996",
+    "currentAge": 27,
+    "nationality": "Belgium",
+    "weightClass": "84+",
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 126.6,
+        "squat": 300.5,
+        "bench": 147.5,
+        "deadlift": 260,
+        "total": 708.5,
+        "rank": "6th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 129,
+        "squat": 311,
+        "bench": 152.5,
+        "deadlift": 267.5,
+        "total": 731,
+        "rank": "1st"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 123.1,
+        "squat": 285.5,
+        "bench": 142.5,
+        "deadlift": 260.5,
+        "total": 688.5,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Brittany-Schlater.png?v=1719892138&width=650",
+    "firstName": "Brittany",
+    "lastName": "Schlater",
+    "birthday": "March 17, 1991",
+    "currentAge": 32,
+    "nationality": "Canada",
+    "weightClass": "84+",
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 125.6,
+        "squat": 385,
+        "bench": 157.5,
+        "deadlift": 267.5,
+        "total": 710,
+        "rank": "5th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 123.6,
+        "squat": 280,
+        "bench": 155,
+        "deadlift": 269.5,
+        "total": 704.5,
+        "rank": "2nd"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 127.6,
+        "squat": 281,
+        "bench": 155,
+        "deadlift": 257.5,
+        "total": 693.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Female",
+    "profileImage": "https://sbdapparel.com/cdn/shop/files/Alexis-Jones.png?v=1719892138&width=650",
+    "firstName": "Alexis",
+    "lastName": "Jones",
+    "birthday": "October 8, 2000",
+    "currentAge": 23,
+    "nationality": "U.S America",
+    "weightClass": "84+",
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 134.8,
+        "squat": 275,
+        "bench": 167,
+        "deadlift": 262.5,
+        "total": 704.5,
+        "rank": "3rd"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 AMP Classic Raw Open Nationals",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 133.9,
+        "squat": 260,
+        "bench": 166,
+        "deadlift": 272.5,
+        "total": 698.5,
+        "rank": "1st"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 AMP Capital City Clash",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 138.2,
+        "squat": 75,
+        "bench": 75,
+        "deadlift": 75,
+        "total": 225,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Female",
+    "profileImage": "https://dicodusport.fr/blog/wp-content/uploads/2022/06/Force-athletique-Noemie-Allabert-conserve-son-titre-mondial.png",
+    "firstName": "Noemi",
+    "lastName": "Allabert",
+    "birthday": "May 15, 1990",
+    "currentAge": 33,
+    "nationality": "France",
+    "weightClass": 52,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.9,
+        "squat": 160,
+        "bench": 87.5,
+        "deadlift": 190,
+        "total": 437.5,
+        "rank": "4th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.9,
+        "squat": 165,
+        "bench": 85,
+        "deadlift": 197.5,
+        "total": 447.5,
+        "rank": "12th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 51.9,
+        "squat": 171.5,
+        "bench": 87.5,
+        "deadlift": 195,
+        "total": 454,
+        "rank": "2nd"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Female",
+    "profileImage": "https://generationiron.com/wp-content/uploads/2023/06/IMG_9539-696x369.jpeg",
+    "firstName": "Natalie",
+    "lastName": "Richards",
+    "birthday": "1998",
+    "currentAge": 26,
+    "nationality": "U.S America",
+    "weightClass": 57,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 56.4,
+        "squat": 186.5,
+        "bench": 110,
+        "deadlift": 220,
+        "total": 516.5,
+        "rank": "9th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 55.8,
+        "squat": 180,
+        "bench": 107.5,
+        "deadlift": 225,
+        "total": 512.5,
+        "rank": "1st"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Female",
+    "profileImage": "https://barbend.com/wp-content/uploads/2024/02/Tongotea.jpg",
+    "firstName": "Karlina",
+    "lastName": "Tongotea",
+    "birthday": "October 4, 1992",
+    "currentAge": 32,
+    "nationality": "New Zealand",
+    "weightClass": 76,
+    "competitions": [
+      {
+        "year": 2024,
+        "competition": "2024 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 75.6,
+        "squat": 230.5,
+        "bench": 127.5,
+        "deadlift": 252.5,
+        "total": 610.5,
+        "rank": "7th"
+      },
+      {
+        "year": 2023,
+        "competition": "2023 Sheffield Powerlifting Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 75.5,
+        "squat": 223.5,
+        "bench": 120,
+        "deadlift": 250,
+        "total": 593.5,
+        "rank": "9th"
+      },
+      {
+        "year": 2024,
+        "competition": "2024 World Open Classic Championships",
+        "federation": "International Powerlifting Federation",
+        "bodyweight": 75.3,
+        "squat": 217.5,
+        "bench": 130,
+        "deadlift": 245,
+        "total": 592.5,
+        "rank": "2nd"
+      }
+    ]
+  }
+]
