@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
+    "link": "https://ipf.fandom.com/wiki/Wascar_Carpio",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Wascar-Carpio.png?v=1719892138&width=650",
     "firstName": "Wascar",
     "lastName": "Carpio",
     "birthday": "June 17, 1997",
     "currentAge": 26,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 59,
     "competitions": [
       {
@@ -36,6 +37,7 @@
   },
   {
     "id": 2,
+    "link": "https://ipf.fandom.com/wiki/Kasemsand_Senumong",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Kasemsand-Senumong.png?v=1719892138&width=650",
     "firstName": "Kasemand",
@@ -82,13 +84,14 @@
   },
   {
     "id": 3,
+    "link": "https://ipf.fandom.com/wiki/Austin_Perkins",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Austin-Perkins.png?v=1719892138&width=650",
     "firstName": "Austin",
     "lastName": "Perkins",
     "birthday": "April 25, 1999",
     "currentAge": 25,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 74,
     "competitions": [
       {
@@ -129,6 +132,7 @@
   },
   {
     "id": 4,
+    "link": "https://ipf.fandom.com/wiki/Timothy_Monigatti",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Timothy-Monigatti.png?v=1719892138&width=650",
     "firstName": "Timothy",
@@ -175,13 +179,14 @@
   },
   {
     "id": 5,
+    "link": "https://ipf.fandom.com/wiki/Russel_Orhii",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Russel-Orhii.png?v=1719892138&width=650",
     "firstName": "Russel",
     "lastName": "Orhii",
     "birthday": "Decemeber 8, 1994",
     "currentAge": 29,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 83,
     "competitions": [
       {
@@ -221,6 +226,7 @@
   },
   {
     "id": 6,
+    "link": "https://ipf.fandom.com/wiki/Jurins_Kengamu",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Jurins-Kengamu.png?v=1719892138&width=650",
     "firstName": "Jurins",
@@ -267,6 +273,7 @@
   },
   {
     "id": 7,
+    "link": "https://ipf.fandom.com/wiki/Gustav_Hedlund",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Gustav-Hedlund.png?v=1719892138&width=650",
     "firstName": "Gustav",
@@ -313,13 +320,14 @@
   },
   {
     "id": 8,
+    "link": "https://ipf.fandom.com/wiki/Ashton_Rouska",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Ashton-Rouska.png?v=1719892138&width=650",
     "firstName": "Ashton",
     "lastName": "Rouska",
     "birthday": "February 12, 1997",
     "currentAge": 27,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 105,
     "competitions": [
       {
@@ -359,13 +367,14 @@
   },
   {
     "id": 9,
+    "link": "https://ipf.fandom.com/wiki/Bobb_Matthews",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Bobb-Matthews.png?v=1719892138&width=650",
     "firstName": "Bobb",
     "lastName": "Matthews",
     "birthday": "July 6, 1997",
     "currentAge": 26,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 120,
     "competitions": [
       {
@@ -405,13 +414,14 @@
   },
   {
     "id": 10,
+    "link": "https://ipf.fandom.com/wiki/Jesus_Olivares",
     "category": "Male",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Jesus-Olivares.png?v=1719892138&width=650",
     "firstName": "Jesus",
     "lastName": "Olivares",
     "birthday": "June 5, 1998",
     "currentAge": 26,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": "120+",
     "competitions": [
       {
@@ -451,6 +461,7 @@
   },
   {
     "id": 11,
+    "link": "https://ipf.fandom.com/wiki/Panagiotis_Tarinidis",
     "category": "Male",
     "profileImage": "https://max-powerlifting.fr/wp-content/uploads/2022/12/panagotis_taridinis.jpg",
     "firstName": "Panagiotis",
@@ -497,13 +508,14 @@
   },
   {
     "id": 12,
+    "link": "https://ipf.fandom.com/wiki/Gavin_Adin",
     "category": "Male",
     "profileImage": "https://m.media-amazon.com/images/M/MV5BYzY4ZmY2NjUtNmNjZC00OWE0LTgzYTctMjc0M2NkYmU3NTA0XkEyXkFqcGdeQXVyMTU3NDMzOTE2._V1_.jpg",
     "firstName": "Gavin",
     "lastName": "Adin",
     "birthday": "March 19, 1998",
     "currentAge": 25,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 93,
     "competitions": [
       {
@@ -543,13 +555,14 @@
   },
   {
     "id": 13,
+    "link": "https://ipf.fandom.com/wiki/Jonathan_Cayco",
     "category": "Male",
     "profileImage": "https://www.powerlifting.sport/fileadmin/_processed_/d/8/csm_934_126220ea22.jpg",
     "firstName": "Jonathan",
     "lastName": "Cayco",
     "birthday": "July 5, 1992",
     "currentAge": 31,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 93,
     "competitions": [
       {
@@ -589,6 +602,7 @@
   },
   {
     "id": 14,
+    "link": "https://ipf.fandom.com/wiki/Tiffany_Chapon",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Tiffany-Chapon_3e9e0072-760a-446d-bb56-25880baf0987.png?v=1719892138&width=650",
     "firstName": "Tiffany",
@@ -635,6 +649,7 @@
   },
   {
     "id": 15,
+    "link": "https://ipf.fandom.com/wiki/Evie_Corrigan",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Evie-Corrigan.png?v=1719892138&width=650",
     "firstName": "Evie",
@@ -681,6 +696,7 @@
   },
   {
     "id": 16,
+    "link": "https://ipf.fandom.com/wiki/Jade_Jacob",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Jade-Jacob.png?v=1719892138&width=650",
     "firstName": "Jade",
@@ -727,13 +743,14 @@
   },
   {
     "id": 17,
+    "link": "https://ipf.fandom.com/wiki/Meghan_Scanlon",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Meghan-Scanlon.png?v=1719892138&width=650",
     "firstName": "Meghan",
     "lastName": "Scanion",
     "birthday": "1988",
     "currentAge": 36,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 63,
     "competitions": [
       {
@@ -773,6 +790,7 @@
   },
   {
     "id": 18,
+    "link": "https://ipf.fandom.com/wiki/Carola_Garra",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Carola-Garra_07e32a9b-9ae8-4601-9cf7-2f4c87f09ba8.png?v=1719892138&width=650",
     "firstName": "Carola",
@@ -819,6 +837,7 @@
   },
   {
     "id": 19,
+    "link": "https://ipf.fandom.com/wiki/Agata_Sitko",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Agata-Sitko.png?v=1719892138&width=650",
     "firstName": "Agata",
@@ -865,13 +884,14 @@
   },
   {
     "id": 20,
+    "link": "https://ipf.fandom.com/wiki/Amanda_Lawrence",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Amanda-Lawrence_a575b901-3073-4d0f-8233-16714c70b915.png?v=1719892138&width=650",
     "firstName": "Amanda",
     "lastName": "Lawrence",
     "birthday": "May 6, 1997",
     "currentAge": 27,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 84,
     "competitions": [
       {
@@ -911,6 +931,7 @@
   },
   {
     "id": 21,
+    "link": "https://ipf.fandom.com/wiki/Sonita_Kyen_Muluh",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Sonita-Kyen-Muluh.png?v=1719892138&width=650",
     "firstName": "Sonita",
@@ -957,6 +978,7 @@
   },
   {
     "id": 22,
+    "link": "https://ipf.fandom.com/wiki/Brittany_Schlater",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Brittany-Schlater.png?v=1719892138&width=650",
     "firstName": "Brittany",
@@ -1003,13 +1025,14 @@
   },
   {
     "id": 23,
+    "link": "https://ipf.fandom.com/wiki/Alexis_Jones",
     "category": "Female",
     "profileImage": "https://sbdapparel.com/cdn/shop/files/Alexis-Jones.png?v=1719892138&width=650",
     "firstName": "Alexis",
     "lastName": "Jones",
     "birthday": "October 8, 2000",
     "currentAge": 23,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": "84+",
     "competitions": [
       {
@@ -1049,6 +1072,7 @@
   },
   {
     "id": 24,
+    "link": "https://ipf.fandom.com/wiki/Noemie_Allabert",
     "category": "Female",
     "profileImage": "https://dicodusport.fr/blog/wp-content/uploads/2022/06/Force-athletique-Noemie-Allabert-conserve-son-titre-mondial.png",
     "firstName": "Noemi",
@@ -1095,13 +1119,14 @@
   },
   {
     "id": 25,
+    "link": "https://ipf.fandom.com/wiki/Natalie_Richards",
     "category": "Female",
     "profileImage": "https://generationiron.com/wp-content/uploads/2023/06/IMG_9539-696x369.jpeg",
     "firstName": "Natalie",
     "lastName": "Richards",
     "birthday": "1998",
     "currentAge": 26,
-    "nationality": "U.S America",
+    "nationality": "USA",
     "weightClass": 57,
     "competitions": [
       {
@@ -1130,6 +1155,7 @@
   },
   {
     "id": 26,
+    "link": "https://ipf.fandom.com/wiki/Karlina_Tongotea",
     "category": "Female",
     "profileImage": "https://barbend.com/wp-content/uploads/2024/02/Tongotea.jpg",
     "firstName": "Karlina",

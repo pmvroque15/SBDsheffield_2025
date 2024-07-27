@@ -1,6 +1,10 @@
 #app {
   text-align: center;
+}
+
+body {
   margin: 0;
+  padding: 0;
 }
 
 img {
@@ -10,16 +14,29 @@ img {
 #list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
   row-gap: 50px;
+  background-color: palevioletred;
 }
 
-h1 {
+h1,
+h2,
+h3 {
   margin: 0;
-  background-color: pink;
+  background-color: palevioletred;
 }
 
-h2 {
-  background-color: rgba(184, 79, 79, 0.329);
+h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#athlete-link {
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 70%;
+  font-style: normal;
+  color: black;
   margin: 0;
 }
