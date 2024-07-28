@@ -7,13 +7,13 @@ const NavBar = () => {
             <a>Home</a>
           </li>
           <li>
-            <a>Athetes</a>
+            <a>Scoring</a>
           </li>
           <li>
             <a>Aparrel</a>
           </li>
           <li>
-            <a>About Us</a>
+            <a>Tickets and Schedule</a>
           </li>
         </ul>
       </nav>
