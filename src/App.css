@@ -108,3 +108,26 @@ h3 {
   margin: 0;
   background-color: black;
 }
+
+#footer-flex {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(15, 2, 6);
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: antiquewhite;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 100;
+  font-style: bold;
+}
+
+#INSTAGRAM {
+  text-decoration: none;
+  color: antiquewhite;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 100;
+  font-style: bold;
+}

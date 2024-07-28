@@ -1,6 +1,8 @@
 import Athletes from './components/Athletes'
 import athletes from './athletes.json'
 import NavBar from './components/NavBar'
+import Footer from './components//Footer'
+
 import './App.css'
 
 const App = () => {
@@ -16,6 +18,7 @@ const App = () => {
       <NavBar />
       <h1>Athlete Roster</h1>
       <Athletes athletes={athletes} />
+      <Footer />
     </div>
   )
 }
