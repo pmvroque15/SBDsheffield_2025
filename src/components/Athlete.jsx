@@ -2,15 +2,17 @@ import Athletes from './Athletes'
 
 const Athlete = ({ athlete }) => {
   return (
-    <div id="athletes-info">
+    <div id="athletes-profile">
       <img src={athlete.profileImage} alt={athlete.firstName} />
-      <h3>
-        <a id="athlete-link" href={athlete.link}>
+      <section id="athlete-info">
+        <a id="athlete-link" href={athlete.link} target="_blank">
           {athlete.firstName} {athlete.lastName}
         </a>
-      </h3>
-      <p>{athlete.weightClass} kg</p>
-      <p id="nationality">{athlete.nationality}</p>
+        <p id="athlete-weightClass">{athlete.weightClass} KG</p>
+        <p id="athlete-nationality">
+          <img id="athlete-flag" src={athlete.flag}></img> {athlete.nationality}
+        </p>
+      </section>
     </div>
   )
 }

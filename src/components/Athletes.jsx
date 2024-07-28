@@ -4,7 +4,7 @@ const Athletes = ({ athletes }) => {
   return (
     <main>
       <h2>Sheffield 2025 Powerlifting Championships</h2>
-      <h3>International Powerlifting Federation</h3>
+      <h3 id="headtitle">International Powerlifting Federation</h3>
       <section id="list">
         {athletes.map((athlete) => (
           <Athlete key={athlete.id} athlete={athlete} />
